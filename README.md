@@ -1,2 +1,2 @@
-# Elevate-Labs-Task1
+# Elevate-Labs
 Java Console Calculator
